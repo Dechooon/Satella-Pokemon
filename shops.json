@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Gate to the Games - Displays",
+    "url": "https://www.gate-to-the-games.de/Pokemon-Karten/Pokemon-Displays/",
+    "enabled": true
+  },
+  {
+    "name": "Gate to the Games - Booster",
+    "url": "https://www.gate-to-the-games.de/Pokemon-Karten/Pokemon-Booster/",
+    "enabled": true
+  },
+  {
+    "name": "Gate to the Games - Sonderboxen",
+    "url": "https://www.gate-to-the-games.de/Pokemon-Karten/Sonderboxen/",
+    "enabled": true
+  },
+  {
+    "name": "Gate to the Games - Japanisch",
+    "url": "https://www.gate-to-the-games.de/Pokemon-japanische-Booster-Display-Boxen-guenstig-online-kaufen",
+    "enabled": true
+  },
+  {
+    "name": "Spieletastisch - Pokémon",
+    "url": "https://www.spieletastisch.de/sammelkarten/pokemon/",
+    "enabled": true
+  },
+  {
+    "name": "Card-Corner - Displays",
+    "url": "https://www.card-corner.de/Pokemon-Display",
+    "enabled": true
+  },
+  {
+    "name": "Cardbuddies - Booster & Displays",
+    "url": "https://cardbuddies.de/collections/pokemon-displays-booster",
+    "enabled": true
+  },
+  {
+    "name": "LottiCards - Pokémon",
+    "url": "https://lotticards.de/collections/pokemon",
+    "enabled": true
+  },
+  {
+    "name": "Smyths Toys - Pokémon Sammelkarten",
+    "url": "https://www.smythstoys.com/de/de-de/gaming/pokemon/pokemon-sammelkarten/c/SM06010502",
+    "enabled": true
+  }
+]
